@@ -1,0 +1,23 @@
+:root {
+    --main-color-lightest:       #d8e1ec;
+    --main-color-lighter:        #97a9c0;
+    --main-color-light:          #8cb9f0;
+    --main-color-slightly-light: #699de0;
+    --main-color:                #8aa8ce;
+    --main-color-slightly-dark:  #6591ca;
+    --main-color-dark:           #3c5d86;
+    --main-color-darker:         #4083dbc9;
+    --main-color-darkest:        #07162c;
+    --main-color-halfly-visible: #175bb450;
+    --white:                     #f2f2f2;
+    --danger:                    #DB2B2B;
+    --shadow:                    #030e1b40;
+    --darker-shadow:             #030e1b70;
+  }
+  
+  body::after {
+    background: url("../../assets/backgrounds/winter.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }

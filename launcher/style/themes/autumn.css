@@ -1,0 +1,23 @@
+:root {
+  --main-color-lightest:       #c5fc00;
+  --main-color-lighter:        #d3d00f;
+  --main-color-light:          #dbdf0c;
+  --main-color-slightly-light: #e0c215;
+  --main-color:                #ebdc14;
+  --main-color-slightly-dark:  #e2d518;
+  --main-color-dark:           #e48c09;
+  --main-color-darker:         #cc730e;
+  --main-color-darkest:        #19052c;
+  --main-color-halfly-visible: #aedb0b50;
+  --white:                     #f2f2f2;
+  --danger:                    #beb319;
+  --shadow:                    #030e1b40;
+  --darker-shadow:             #030e1b70;
+}
+
+body::after {
+  background: url("../../assets/backgrounds/autumn.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
