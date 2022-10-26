@@ -1,11 +1,11 @@
 <h1 align="center">Astria Client Alpha 1</h1>
 <p align="center">
 An open-source and lightweight launcher for Minecraft<br>
-<em>Flexberry Launcher is <b align="center">under development</b>, come to <a href="https://discord.gg/dbVPH8KYP2">
+<em>Astria Client is <b align="center">under development</b>, come to <a href="https://discord.gg/qM4C48tf">
 Discord server
 </a> and check the progress</em>
 <br><br>
-<img src="./src/assets/images/launcher.png" width="768px" align="center">
+<img src="../astria-alpha-1.png" width="768px" align="center">
 
 
 <h1>✨ Features</h1>
