@@ -1,7 +1,7 @@
-<h1 align="center"> ✨ Astria Client </h1>
+<h1 align="center">Astria Client Alpha 1</h1>
 
 
-<h1>✨ Features</h1>
+<h1>Features</h1>
 </p>
 
 * 🔒 Easy and secure account management
