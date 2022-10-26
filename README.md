@@ -5,7 +5,7 @@ An open-source and lightweight launcher for Minecraft<br>
 Discord server
 </a> and check the progress</em>
 <br><br>
-<img src="../astria-alpha-1.png" width="768px" align="center">
+<img src="astria-alpha-1.png" width="768px" align="center">
 
 
 <h1>✨ Features</h1>
